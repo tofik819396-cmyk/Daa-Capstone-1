@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": "P101",
+    "weight": 10,
+    "priority": 5,
+    "deadline": 2,
+    "value": 100,
+    "location": "A"
+  },
+  {
+    "id": "P102",
+    "weight": 15,
+    "priority": 4,
+    "deadline": 1,
+    "value": 120,
+    "location": "B"
+  },
+  {
+    "id": "P103",
+    "weight": 20,
+    "priority": 5,
+    "deadline": 3,
+    "value": 150,
+    "location": "C"
+  },
+  {
+    "id": "P104",
+    "weight": 12,
+    "priority": 3,
+    "deadline": 4,
+    "value": 80,
+    "location": "D"
+  },
+  {
+    "id": "P105",
+    "weight": 8,
+    "priority": 5,
+    "deadline": 1,
+    "value": 90,
+    "location": "A"
+  },
+  {
+    "id": "P106",
+    "weight": 18,
+    "priority": 2,
+    "deadline": 5,
+    "value": 110,
+    "location": "E"
+  },
+  {
+    "id": "P107",
+    "weight": 7,
+    "priority": 4,
+    "deadline": 2,
+    "value": 70,
+    "location": "B"
+  },
+  {
+    "id": "P108",
+    "weight": 14,
+    "priority": 3,
+    "deadline": 3,
+    "value": 95,
+    "location": "C"
+  }
+]

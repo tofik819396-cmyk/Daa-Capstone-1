@@ -1,0 +1,46 @@
+
+# Intelligent Courier Planning System
+
+## 1. Problem Statement
+The system optimizes courier parcel selection and delivery routes using
+Design and Analysis of Algorithms.
+
+## 2. Objectives
+- Prioritize parcels using Merge Sort.
+- Select optimal parcels using 0/1 Knapsack.
+- Calculate shortest paths using Dijkstra.
+- Optimize delivery order using Nearest Neighbor TSP.
+- Compare algorithm execution times.
+
+## 3. Input
+- Parcel ID
+- Parcel weight
+- Priority
+- Delivery deadline
+- Parcel value
+- Delivery location
+
+## 4. Algorithms
+| Algorithm | Purpose | Complexity |
+|---|---|---|
+| Merge Sort | Parcel sorting | O(n log n) |
+| 0/1 Knapsack DP | Parcel selection | O(nW) |
+| Dijkstra (heap) | Shortest paths | O((V+E) log V) |
+| Nearest Neighbor | Route approximation | O(k^2) |
+
+## 5. Graph Design
+The delivery network is represented using a weighted,
+undirected adjacency list.
+
+## 6. Expected Output
+- Sorted parcels
+- Selected parcels
+- Total package weight
+- Shortest delivery paths
+- Optimized delivery sequence
+- Total route distance
+- Runtime comparison
+
+## 7. Conclusion
+The proposed system combines multiple algorithms to
+simulate an intelligent courier planning application.
